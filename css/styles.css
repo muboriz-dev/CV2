@@ -4,6 +4,12 @@ body {
     font-family: 'Merriweather', serif;
 }
 
+.version {
+    color: #11999E;
+    position: relative;
+    right: 10px;
+}
+
 h1 {
     color: #66BFBF;
     font-size: 5.625rem;
